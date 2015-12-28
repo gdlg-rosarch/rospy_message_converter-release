@@ -1,0 +1,55 @@
+ros-jade-rospy-message-converter (0.4.0-0trusty) trusty; urgency=high
+
+  * Adds support for ROS Jade
+  * Removes support for ROS Groovy and Hydro (EOL)
+  * Uses single branch for all ROS versions
+  * Docker support for local development and Travis CI
+
+ -- Brandon Alexander <baalexander@gmail.com>  Sun, 13 Dec 2015 08:00:00 -0000
+
+ros-jade-rospy-message-converter (0.3.0-0trusty) trusty; urgency=high
+
+  * Adds support for ROS Indigo
+
+ -- Brandon Alexander <baalexander@gmail.com>  Tue, 03 Jun 2014 07:00:00 -0000
+
+ros-jade-rospy-message-converter (0.2.0-0trusty) trusty; urgency=high
+
+  * Updates to ROS Hydro
+  * Builds and runs tests with Travis CI
+  * Adds CHANGELOG
+
+ -- Brandon Alexander <baalexander@gmail.com>  Mon, 15 Jul 2013 07:00:00 -0000
+
+ros-jade-rospy-message-converter (0.1.4-0trusty) trusty; urgency=high
+
+  * Documents Python functions
+  * Throws error if invalid JSON or dictionary
+
+ -- Brandon Alexander <baalexander@gmail.com>  Tue, 16 Apr 2013 07:00:00 -0000
+
+ros-jade-rospy-message-converter (0.1.3-0trusty) trusty; urgency=high
+
+  * Adds rostest dependency
+
+ -- Brandon Alexander <baalexander@gmail.com>  Mon, 04 Mar 2013 08:00:00 -0000
+
+ros-jade-rospy-message-converter (0.1.2-0trusty) trusty; urgency=high
+
+  * Adds missing build_depends and run_depends
+
+ -- Brandon Alexander <baalexander@gmail.com>  Mon, 04 Mar 2013 08:00:00 -0000
+
+ros-jade-rospy-message-converter (0.1.1-0trusty) trusty; urgency=high
+
+  * Adds message_generation dependency to fix build
+
+ -- Brandon Alexander <baalexander@gmail.com>  Fri, 01 Mar 2013 08:00:00 -0000
+
+ros-jade-rospy-message-converter (0.1.0-0trusty) trusty; urgency=high
+
+  * Initial release of rospy_message_converter
+
+ -- Brandon Alexander <baalexander@gmail.com>  Wed, 27 Feb 2013 08:00:00 -0000
+
+
