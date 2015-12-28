@@ -1,3 +1,24 @@
+## rospy_message_converter (jade) - 0.4.0-0
+
+The packages in the `rospy_message_converter` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release rospy_message_converter --track jade --rosdistro jade` on `Mon, 28 Dec 2015 18:50:47 -0000`
+
+The `rospy_message_converter` package was released.
+
+Version of package(s) in repository `rospy_message_converter`:
+- upstream repository: https://github.com/baalexander/rospy_message_converter.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.0-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.38`
+
+
 ## rospy_message_converter (indigo) - 0.4.0-0
 
 The packages in the `rospy_message_converter` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release rospy_message_converter --track indigo --rosdistro indigo --edit --override-release-repository-url https://github.com/baalexander/rospy_message_converter-release.git` on `Sun, 27 Dec 2015 21:10:22 -0000`
